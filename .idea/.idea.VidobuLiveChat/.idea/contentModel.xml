@@ -71,6 +71,7 @@
             <e p="banner4.svg" t="Include" />
           </e>
           <e p="js" t="Include">
+            <e p="signalr-client-1.0.0-alpha2-final.min.js" t="Include" />
             <e p="site.js" t="Include" />
             <e p="site.min.js" t="Include" />
           </e>

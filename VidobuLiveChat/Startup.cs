@@ -12,6 +12,12 @@ namespace VidobuLiveChat
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSignalR();
+            services.AddCors(o => o.AddPolicy("Policy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader();
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -21,6 +27,7 @@ namespace VidobuLiveChat
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors("Policy");
 
             app.UseSignalR(r => r.MapHub<ChatHub>("Chat")); 
         }

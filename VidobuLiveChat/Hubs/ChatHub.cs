@@ -5,9 +5,9 @@ namespace VidobuLiveChat.Hubs
 {
     public class ChatHub : Hub
     {
-        public Task SendMessage(string message)
+        public Task SendMessage(string nick, string message)
         {
-            return Clients.All.InvokeAsync("ReceiveMessage", message);
+            return Clients.All.InvokeAsync("ReceiveMessage", nick, message);
         }
     }
 }

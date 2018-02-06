@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1df11ba0-0647-48c6-8331-9514f732523a" name="Default" comment="" />
+    <list default="true" id="1df11ba0-0647-48c6-8331-9514f732523a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VidobuLiveChat/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.VidobuLiveChat/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VidobuLiveChat/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.VidobuLiveChat/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml" afterPath="$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js" afterPath="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js" afterPath="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs" afterPath="$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/Startup.cs" afterPath="$PROJECT_DIR$/VidobuLiveChat/Startup.cs" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.dll" afterPath="$PROJECT_DIR$/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.dll" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.pdb" afterPath="$PROJECT_DIR$/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.pdb" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.dll" afterPath="$PROJECT_DIR$/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.dll" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.pdb" afterPath="$PROJECT_DIR$/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.pdb" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/obj/VidobuLiveChat.csproj.nuget.cache" afterPath="$PROJECT_DIR$/VidobuLiveChat/obj/VidobuLiveChat.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/obj/VidobuLiveChat.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/VidobuLiveChat/obj/VidobuLiveChat.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/VidobuLiveChat/obj/project.assets.json" afterPath="$PROJECT_DIR$/VidobuLiveChat/obj/project.assets.json" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,44 +25,84 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="302">
+              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
               <folding>
-                <marker date="1517851813970" expanded="true" signature="0:41" ph="@..." />
-                <marker date="1517851813970" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="3050:5575" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="5138:5568" ph="&lt;div.../&gt;" />
-                <marker date="1517851813970" expanded="true" signature="5203:5557" ph="&lt;ul.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1517940573720" expanded="true" signature="111:501" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="131:431" ph="&lt;form.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="436:466" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="502:1603" ph="&lt;script.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="806:852" ph="{...}" />
+                <marker date="1517940573720" expanded="true" signature="940:1156" ph="{...}" />
+                <marker date="1517940573720" expanded="true" signature="1206:1591" ph="{...}" />
+                <marker date="1517940573720" expanded="true" signature="1606:4611" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="1697:2002" ph="&lt;ol.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2007:4154" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2059:2549" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2181:2534" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2242:2515" ph="&lt;p.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2341:2494" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2558:3071" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2679:3056" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2740:3037" ph="&lt;p.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="2863:3016" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3080:3606" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3206:3591" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3267:3572" ph="&lt;p.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3398:3551" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3615:4143" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3738:4128" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3799:4109" ph="&lt;p.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="3935:4088" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="4159:4380" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="4385:4604" ph="&lt;a.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="4613:7138" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="4635:5015" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="4700:5004" ph="&lt;ul.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="5020:5808" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="5075:5797" ph="&lt;ul.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="5813:6696" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="5870:6685" ph="&lt;ul.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="6701:7131" ph="&lt;div.../&gt;" />
+                <marker date="1517940573720" expanded="true" signature="6766:7120" ph="&lt;ul.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1517851816510" expanded="false" signature="6:190" ph="..." />
+                <marker date="1517851816510" expanded="true" signature="235:851" ph="{...}" />
+                <marker date="1517851816510" expanded="true" signature="282:849" ph="{...}" />
+                <marker date="1517851816510" expanded="true" signature="325:372" ph="{...}" />
+                <marker date="1517851816510" expanded="true" signature="410:530" ph="{...}" />
+                <marker date="1517851816510" expanded="true" signature="570:674" ph="{...}" />
+                <marker date="1517851816510" expanded="true" signature="712:843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatHub.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <marker date="1517940430807" expanded="false" signature="6:65" ph="..." />
+                <marker date="1517940430807" expanded="true" signature="96:301" ph="{...}" />
+                <marker date="1517940430807" expanded="true" signature="129:299" ph="{...}" />
+                <marker date="1517940430807" expanded="true" signature="196:293" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -56,7 +111,7 @@
       <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Shared/_Layout.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
+            <state relative-caret-position="750">
               <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="33" />
               <folding>
                 <marker date="1517851813976" expanded="true" signature="16:3352" ph="&lt;html.../&gt;" />
@@ -81,11 +136,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="site.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,23 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_ViewStart.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewStart.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1517851813983" expanded="true" signature="0:28" ph="@..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_ViewImports.cshtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewImports.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <marker date="1517851813988" expanded="false" signature="7:64" ph="..." />
               </folding>
@@ -125,12 +168,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js">
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <marker date="1517940154549" expanded="false" signature="6:146" ph="..." />
+                <marker date="1517940154549" expanded="true" signature="172:1194" ph="{...}" />
+                <marker date="1517940154549" expanded="true" signature="199:1192" ph="{...}" />
+                <marker date="1517940154549" expanded="true" signature="214:429" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1517940154549" expanded="true" signature="496:767" ph="{...}" />
+                <marker date="1517940154549" expanded="true" signature="608:754" ph="{...}" />
+                <marker date="1517940154549" expanded="true" signature="955:1186" ph="{...}" />
+                <marker date="1517940154549" expanded="true" signature="1002:1079" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,10 +190,10 @@
       <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
+            <state relative-caret-position="-216">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1517851816515" expanded="true" signature="6:258" ph="..." />
+                <marker date="1517851816515" expanded="false" signature="6:258" ph="..." />
                 <marker date="1517851816515" expanded="true" signature="291:1387" ph="{...}" />
                 <marker date="1517851816515" expanded="true" signature="318:1385" ph="{...}" />
                 <marker date="1517851816515" expanded="true" signature="377:440" ph="{...}" />
@@ -170,16 +222,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/.bowerrc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -187,7 +229,11 @@
       <find>site.js</find>
       <find>js</find>
       <find>.js</find>
+      <find>spn-nick</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
@@ -197,18 +243,20 @@
     <setting file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VidobuLiveChat/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs" />
-        <option value="$PROJECT_DIR$/VidobuLiveChat/Startup.cs" />
         <option value="$PROJECT_DIR$/VidobuLiveChat.sln" />
         <option value="$PROJECT_DIR$/VidobuLiveChat.Client/Program.cs" />
-        <option value="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js" />
         <option value="$PROJECT_DIR$/VidobuLiveChat.Client/VidobuLiveChat.Client.csproj" />
         <option value="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js" />
+        <option value="$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js" />
+        <option value="$PROJECT_DIR$/VidobuLiveChat/Startup.cs" />
+        <option value="$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs" />
+        <option value="$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml" />
       </list>
     </option>
   </component>
@@ -225,6 +273,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -255,7 +304,19 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="VidobuLiveChat (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="VidobuLiveChat" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Hubs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VidobuLiveChat (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="VidobuLiveChat.Client" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VidobuLiveChat (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="VidobuLiveChat.Client" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -269,13 +330,6 @@
               <item name="VidobuLiveChat.Client" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="VidobuLiveChat (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="VidobuLiveChat.Client" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -377,11 +431,13 @@
       <option name="presentableId" value="Default" />
       <updated>1517849485294</updated>
       <workItem from="1517849486696" duration="3182000" />
+      <workItem from="1517891020589" duration="137000" />
+      <workItem from="1517938636062" duration="1808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3182000" />
+    <option name="totallyTimeSpent" value="5127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,27 +453,28 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29298487" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24474959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29298487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25282714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -432,103 +489,83 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/ClientApp/boot.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/ClientApp/routes.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.sln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <marker date="1517850108262" expanded="true" signature="6:146" ph="..." />
-            <marker date="1517850108262" expanded="true" signature="172:943" ph="{...}" />
-            <marker date="1517850108262" expanded="true" signature="199:941" ph="{...}" />
-            <marker date="1517850108262" expanded="true" signature="214:429" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1517850108262" expanded="true" signature="496:551" ph="{...}" />
-            <marker date="1517850108262" expanded="true" signature="739:935" ph="{...}" />
-            <marker date="1517850108262" expanded="true" signature="786:863" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs">
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <marker date="1517849874732" expanded="true" signature="6:65" ph="..." />
-            <marker date="1517849874732" expanded="true" signature="96:282" ph="{...}" />
-            <marker date="1517849874732" expanded="true" signature="129:280" ph="{...}" />
-            <marker date="1517849874732" expanded="true" signature="183:274" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1517940573720" expanded="true" signature="111:501" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="131:431" ph="&lt;form.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="436:466" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="502:1603" ph="&lt;script.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="806:852" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="940:1156" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1206:1591" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1606:4611" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="1697:2002" ph="&lt;ol.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2007:4154" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2059:2549" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2181:2534" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2242:2515" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2341:2494" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2558:3071" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2679:3056" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2740:3037" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2863:3016" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3080:3606" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3206:3591" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3267:3572" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3398:3551" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3615:4143" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3738:4128" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3799:4109" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3935:4088" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4159:4380" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4385:4604" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4613:7138" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4635:5015" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4700:5004" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5020:5808" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5075:5797" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5813:6696" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5870:6685" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6701:7131" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6766:7120" ph="&lt;ul.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/package.json">
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="750">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <marker date="1517851813976" expanded="true" signature="16:3352" ph="&lt;html.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="23:855" ph="&lt;head.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="203:393" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="398:847" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="856:3344" ph="&lt;body.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="867:1940" ph="&lt;nav.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="928:1929" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="964:1490" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1008:1352" ph="&lt;button.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1503:1914" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1558:1895" ph="&lt;ul.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1945:2119" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2027:2108" ph="&lt;footer.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2125:2379" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2384:3288" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2428:2776" ph="&lt;script.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2785:3194" ph="&lt;script.../&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/bundleconfig.json">
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/VidobuLiveChat.Client.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -553,49 +590,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851816515" expanded="false" signature="6:258" ph="..." />
+            <marker date="1517851816515" expanded="true" signature="291:1387" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="318:1385" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="377:440" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="663:714" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="902:1379" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="949:1026" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1043:1127" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1196:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1517853789028" expanded="false" signature="6:255" ph="..." />
+            <marker date="1517853789028" expanded="true" signature="288:659" ph="{...}" />
+            <marker date="1517853789028" expanded="true" signature="315:657" ph="{...}" />
+            <marker date="1517853789028" expanded="true" signature="368:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <marker date="1517851813970" expanded="true" signature="0:41" ph="@..." />
-            <marker date="1517851813970" expanded="true" signature="43:3048" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="134:439" ph="&lt;ol.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="444:2591" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="496:986" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="618:971" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="679:952" ph="&lt;p.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="778:931" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="995:1508" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1116:1493" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1177:1474" ph="&lt;p.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1300:1453" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1517:2043" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1643:2028" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1704:2009" ph="&lt;p.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="1835:1988" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2052:2580" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2175:2565" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2236:2546" ph="&lt;p.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2372:2525" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2596:2817" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="2822:3041" ph="&lt;a.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="3050:5575" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="3072:3452" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="3137:3441" ph="&lt;ul.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="3457:4245" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="3512:4234" ph="&lt;ul.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="4250:5133" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="4307:5122" ph="&lt;ul.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="5138:5568" ph="&lt;div.../&gt;" />
-            <marker date="1517851813970" expanded="true" signature="5203:5557" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1517940573720" expanded="true" signature="111:501" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="131:431" ph="&lt;form.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="436:466" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="502:1603" ph="&lt;script.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="806:852" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="940:1156" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1206:1591" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1606:4611" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="1697:2002" ph="&lt;ol.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2007:4154" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2059:2549" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2181:2534" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2242:2515" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2341:2494" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2558:3071" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2679:3056" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2740:3037" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2863:3016" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3080:3606" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3206:3591" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3267:3572" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3398:3551" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3615:4143" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3738:4128" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3799:4109" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3935:4088" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4159:4380" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4385:4604" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4613:7138" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4635:5015" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4700:5004" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5020:5808" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5075:5797" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5813:6696" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5870:6685" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6701:7131" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6766:7120" ph="&lt;ul.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
+        <state relative-caret-position="750">
           <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="33" />
           <folding>
             <marker date="1517851813976" expanded="true" signature="16:3352" ph="&lt;html.../&gt;" />
@@ -619,6 +718,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/VidobuLiveChat.Client.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851813983" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851813988" expanded="false" signature="7:64" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851816515" expanded="false" signature="6:258" ph="..." />
+            <marker date="1517851816515" expanded="true" signature="291:1387" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="318:1385" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="377:440" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="663:714" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="902:1379" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="949:1026" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1043:1127" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1196:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -632,33 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1517851816515" expanded="true" signature="6:258" ph="..." />
-            <marker date="1517851816515" expanded="true" signature="291:1387" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="318:1385" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="377:440" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="663:714" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="902:1379" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="949:1026" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="1043:1127" ph="{...}" />
-            <marker date="1517851816515" expanded="true" signature="1196:1367" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/VidobuLiveChat.Client.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js">
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/.bowerrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -671,6 +798,253 @@
         <state relative-caret-position="15">
           <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/ClientApp/boot.tsx" />
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/ClientApp/routes.tsx" />
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851813983" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="33" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <marker date="1517851813976" expanded="true" signature="16:3352" ph="&lt;html.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="23:855" ph="&lt;head.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="203:393" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="398:847" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="856:3344" ph="&lt;body.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="867:1940" ph="&lt;nav.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="928:1929" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="964:1490" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1008:1352" ph="&lt;button.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1503:1914" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1558:1895" ph="&lt;ul.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="1945:2119" ph="&lt;div.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2027:2108" ph="&lt;footer.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2125:2379" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2384:3288" ph="&lt;environment.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2428:2776" ph="&lt;script.../&gt;" />
+            <marker date="1517851813976" expanded="true" signature="2785:3194" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/VidobuLiveChat.Client.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851816515" expanded="false" signature="6:258" ph="..." />
+            <marker date="1517851816515" expanded="true" signature="291:1387" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="318:1385" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="377:440" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="663:714" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="902:1379" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="949:1026" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1043:1127" ph="{...}" />
+            <marker date="1517851816515" expanded="true" signature="1196:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/bundleconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1517853789028" expanded="false" signature="6:255" ph="..." />
+            <marker date="1517853789028" expanded="true" signature="288:659" ph="{...}" />
+            <marker date="1517853789028" expanded="true" signature="315:657" ph="{...}" />
+            <marker date="1517853789028" expanded="true" signature="368:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/wwwroot/js/site.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1517851813988" expanded="false" signature="7:64" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1517940154549" expanded="false" signature="6:146" ph="..." />
+            <marker date="1517940154549" expanded="true" signature="172:1194" ph="{...}" />
+            <marker date="1517940154549" expanded="true" signature="199:1192" ph="{...}" />
+            <marker date="1517940154549" expanded="true" signature="214:429" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1517940154549" expanded="true" signature="496:767" ph="{...}" />
+            <marker date="1517940154549" expanded="true" signature="608:754" ph="{...}" />
+            <marker date="1517940154549" expanded="true" signature="955:1186" ph="{...}" />
+            <marker date="1517940154549" expanded="true" signature="1002:1079" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517851816510" expanded="false" signature="6:190" ph="..." />
+            <marker date="1517851816510" expanded="true" signature="235:851" ph="{...}" />
+            <marker date="1517851816510" expanded="true" signature="282:849" ph="{...}" />
+            <marker date="1517851816510" expanded="true" signature="325:372" ph="{...}" />
+            <marker date="1517851816510" expanded="true" signature="410:530" ph="{...}" />
+            <marker date="1517851816510" expanded="true" signature="570:674" ph="{...}" />
+            <marker date="1517851816510" expanded="true" signature="712:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat/Hubs/ChatHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1517940430807" expanded="false" signature="6:65" ph="..." />
+            <marker date="1517940430807" expanded="true" signature="96:301" ph="{...}" />
+            <marker date="1517940430807" expanded="true" signature="129:299" ph="{...}" />
+            <marker date="1517940430807" expanded="true" signature="196:293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VidobuLiveChat.Client/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1517940573720" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1517940573720" expanded="true" signature="111:501" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="131:431" ph="&lt;form.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="436:466" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="502:1603" ph="&lt;script.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="806:852" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="940:1156" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1206:1591" ph="{...}" />
+            <marker date="1517940573720" expanded="true" signature="1606:4611" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="1697:2002" ph="&lt;ol.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2007:4154" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2059:2549" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2181:2534" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2242:2515" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2341:2494" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2558:3071" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2679:3056" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2740:3037" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="2863:3016" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3080:3606" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3206:3591" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3267:3572" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3398:3551" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3615:4143" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3738:4128" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3799:4109" ph="&lt;p.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="3935:4088" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4159:4380" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4385:4604" ph="&lt;a.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4613:7138" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4635:5015" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="4700:5004" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5020:5808" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5075:5797" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5813:6696" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="5870:6685" ph="&lt;ul.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6701:7131" ph="&lt;div.../&gt;" />
+            <marker date="1517940573720" expanded="true" signature="6766:7120" ph="&lt;ul.../&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,6 +2,58 @@
     ViewData["Title"] = "Home Page";
 }
 
+<script src="js/signalr-client-1.0.0-alpha2-final.min.js"></script>
+<div id="chat">
+    <form id="frm-send-message" action="#">
+        
+        <label for="nick">Nick:</label>
+        <input type="text" id="nick" />
+        
+        <label for="message">Message:</label>
+        <input type="text" id="message"/>
+        
+        <input type="submit" id="send" value="Send"/>
+    </form>
+    <div class="clear">
+    </div>
+    <ul id="messages"></ul>
+</div>
+<script>
+    let transportType = signalR.TransportType.WebSockets;
+    let http = new signalR.HttpConnection(`http://localhost:5000/chat`, { transport: transportType });
+    let connection = new signalR.HubConnection(http);
+    connection.start();
+
+    connection.on('ReceiveMessage', (nick, message) => {
+        appendLine(nick, message);    
+    });
+
+    document.getElementById('frm-send-message').addEventListener('submit', event => {
+        let message = $('#message').val();
+        let nick = $('#nick').val();
+
+        $('#message').val('');
+    
+        connection.invoke('SendMessage', nick, message);   
+        event.preventDefault();
+    });
+
+    function appendLine(nick, message, color) {  
+        let nameElement = document.createElement('strong');      
+        nameElement.innerText = `${nick}:`;
+
+        let msgElement = document.createElement('em');
+        msgElement.innerText = ` ${message}`;
+
+        let li = document.createElement('li');
+        li.appendChild(nameElement);
+        li.appendChild(msgElement);
+       
+        $('#messages').append(li);
+    };
+
+</script> 
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
