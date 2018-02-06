@@ -1,0 +1,10 @@
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.deps.json
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.runtimeconfig.json
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.runtimeconfig.dev.json
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.dll
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/bin/Debug/netcoreapp2.0/VidobuLiveChat.pdb
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.csproj.CoreCompileInputs.cache
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.AssemblyInfoInputs.cache
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.AssemblyInfo.cs
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.dll
+/Users/miray/Projects/VidobuLiveChat/VidobuLiveChat/obj/Debug/netcoreapp2.0/VidobuLiveChat.pdb
